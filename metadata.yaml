@@ -1,0 +1,74 @@
+_repo: Germinal_5711
+creator:
+  author:
+    agent_name: Zola, Émile
+    alias: Zola, Émile Édouard Charles Antoine
+    birthdate: 1840
+    deathdate: 1902
+    gutenberg_agent_id: '528'
+    url: http://www.gutenberg.org/2009/agents/528
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
+    - http://en.wikipedia.org/wiki/Émile_Zola
+description: "Germinal is the thirteenth novel in Émile Zola's twenty-volume series\
+  \ Les Rougon-Macquart. Often considered Zola's masterpiece and one of the most significant\
+  \ novels in the French tradition, the novel – an uncompromisingly harsh and realistic\
+  \ story of a coalminers' strike in northern France in the 1860s – has been published\
+  \ and translated in over one hundred countries and has additionally inspired five\
+  \ film adaptations and two television productions.\nGerminal was written between\
+  \ April 1884 and January 1885. It was first serialized between November 1884 and\
+  \ February 1885 in the periodical Gil Blas, then in March 1885 published as a book.\n\
+  The title (pronounced: [ʒɛʁminal]) refers to the name of a month of the French Republican\
+  \ Calendar, a spring month. Germen is a Latin word which means \"seed\"; the novel\
+  \ describes the hope for a better future that seeds amongst the miners. As the final\
+  \ lines of the novel read:\n\nDes hommes poussaient, une armée noire, vengeresse,\
+  \ qui germait lentement dans les sillons, grandissant pour les récoltes du siècle\
+  \ futur, et dont la germination allait faire bientôt éclater la terre.\nMen were\
+  \ springing forth, a black avenging army, germinating slowly in the furrows, growing\
+  \ towards the harvests of the next century, and their germination would soon overturn\
+  \ the earth.\n\n^ http://www.ibiblio.org/eldritch/ez/g76.html\n From Wikipedia (CC\
+  \ BY-SA)."
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5711'
+  wikidata: Q137869
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French literature'
+title: Germinal
+url: http://www.gutenberg.org/ebooks/5711
+wikipedia:
+- https://eo.wikipedia.org/wiki/Germinal
+- https://pa.wikipedia.org/wiki/%E0%A8%9C%E0%A8%B0%E0%A8%AE%E0%A9%80%E0%A8%A8%E0%A8%B2_(%E0%A8%A8%E0%A8%BE%E0%A8%B5%E0%A8%B2)
+- https://fa.wikipedia.org/wiki/%DA%98%D8%B1%D9%85%DB%8C%D9%86%D8%A7%D9%84
+- https://fr.wikisource.org/wiki/Germinal
+- https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%AB%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%AB_(%E5%B0%8F%E8%AA%AC)
+- https://pt.wikipedia.org/wiki/Germinal
+- https://es.wikipedia.org/wiki/Germinal_(novela)
+- https://en.wikipedia.org/wiki/Germinal_(novel)
+- https://ru.wikipedia.org/wiki/%D0%96%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://ro.wikipedia.org/wiki/Germinal
+- https://ko.wikipedia.org/wiki/%EC%A0%9C%EB%A5%B4%EB%AF%B8%EB%82%A0
+- https://et.wikipedia.org/wiki/S%C3%B6ekaevurid
+- https://fr.wikipedia.org/wiki/Germinal_(roman)
+- https://sh.wikipedia.org/wiki/Germinal
+- https://zh.wikipedia.org/wiki/%E8%90%8C%E8%8A%BD_(%E5%B7%A6%E6%8B%89)
+- https://bs.wikipedia.org/wiki/Germinal
+- https://pl.wikipedia.org/wiki/Germinal_(powie%C5%9B%C4%87)
+- https://es.wikisource.org/wiki/Germinal
+- https://sv.wikipedia.org/wiki/Den_stora_gruvstrejken
+- https://pcd.wikipedia.org/wiki/Germinal_(live)
+- https://gd.wikipedia.org/wiki/Germinal_(nobhail)
+- https://nl.wikipedia.org/wiki/Germinal_(roman)
+- https://sl.wikipedia.org/wiki/Germinal_(roman)
+- https://de.wikipedia.org/wiki/Germinal_(Roman)
+- https://sr.wikipedia.org/wiki/%D0%96%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB
+- https://it.wikipedia.org/wiki/Germinale_(romanzo)
+- https://hr.wikipedia.org/wiki/Germinal
+- https://tr.wikipedia.org/wiki/Germinal_(roman)
